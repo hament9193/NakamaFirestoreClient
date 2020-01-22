@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218404888607",
+    "firebase_url": "https://fir-nakamaclient.firebaseio.com",
+    "project_id": "fir-nakamaclient",
+    "storage_bucket": "fir-nakamaclient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218404888607:android:e687b04a8caf4a7cc4f52a",
+        "android_client_info": {
+          "package_name": "com.example.firebasenakamaclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218404888607-kcm5p4v8ad0r2kj754fofa74h7dpndb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasenakamaclient",
+            "certificate_hash": "2f388f4c5c89e06f870eba4a553e19c9961def8d"
+          }
+        },
+        {
+          "client_id": "218404888607-vhu2795kefdk7s945q2qdokendb7b6en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdWUyAyUYB_X0Lt2W2AlGgSiWRLPMNIF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218404888607-vhu2795kefdk7s945q2qdokendb7b6en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
